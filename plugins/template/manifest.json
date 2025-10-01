@@ -1,10 +1,10 @@
 {
-    "name": "Template Plugin",
-    "description": "A plugin for use as a template.",
+    "name": "Gary",
+    "description": "Send random gary images",
     "authors": [
         {
-            "name": "You!",
-            "id": "YOUR_ID_HERE"
+            "name": "amaroreo",
+            "id": "750064880861708421"
         }
     ],
     "main": "src/index.ts",
